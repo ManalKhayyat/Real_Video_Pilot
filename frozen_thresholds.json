@@ -1,0 +1,10 @@
+{
+  "squats": {
+    "bottom": 135,
+    "top": 155
+  },
+  "pushups": {
+    "bottom": 125,
+    "top": 145
+  }
+}
