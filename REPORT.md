@@ -1,4 +1,4 @@
-# MM-Fit real-video pilot for Mirras
+# MM-Fit real-video pilot
 
 ## Question and scope
 
