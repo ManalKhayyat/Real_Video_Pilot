@@ -1,4 +1,4 @@
-# MM-Fit real-video pilot
+# MM-Fit Real-Video Pilot
 
 ## Question and scope
 
