@@ -2,7 +2,7 @@
 
 ## Question and scope
 
-Can output-specific evidence checks suppress alerts that lack cue evidence while preserving repetition counts? This exploratory experiment evaluates a prototype of the proposed decision policy on real MM-Fit recordings using MediaPipe Pose Landmarker Lite. The developed DNN weights, deployed service, and original evaluation records were unavailable. An angle-based five-frame voting baseline approximates the reported temporal behavior. The pilot evaluates repetition counting and suppression under controlled evidence loss. It provides no trainer-validated measure of form-correction accuracy.
+Can output-specific evidence checks suppress alerts that lack cue evidence while preserving repetition counts? This exploratory experiment evaluates a prototype of the proposed decision policy on real MM-Fit recordings using MediaPipe Pose Landmarker Lite. The pilot evaluates repetition counting and suppression under controlled evidence loss. It provides no trainer-validated measure of form-correction accuracy.
 
 ## Dataset and setup
 
