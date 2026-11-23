@@ -1,5 +1,7 @@
 # MM-Fit Real-Video Pilot
 
+This repository contains the code, derived pose features, and results for the MM-Fit real-video pilot described in the paper titled "A Vision-Based Framework for Exercise Form Assessment and Repetition Counting". The pilot compares four decision policies on 24 held-out push-up and squat sets (240 annotated repetitions). It evaluates repetition-counting error and records geometric alerts during simulated gaps in cue evidence.
+
 ## Question and scope
 
 Can output-specific evidence checks suppress alerts that lack cue evidence while preserving repetition counts? This exploratory experiment evaluates a prototype of the proposed decision policy on real MM-Fit recordings using MediaPipe Pose Landmarker Lite. The pilot evaluates repetition counting and suppression under controlled evidence loss. It provides no trainer-validated measure of form-correction accuracy.
